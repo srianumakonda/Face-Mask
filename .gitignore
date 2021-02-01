@@ -1,0 +1,5 @@
+dataset/
+logs/
+.vscode/
+model.h5
+transfer-learning-model.h5
